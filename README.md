@@ -2,5 +2,5 @@
 Coursera Practical Machine Learning Course Prediction Assignment
 
 Practical Machine Learning Course Project Submission (HTML and Rmd files)  
- - Link to Rmd File - https://github.com/Saumitra-171/Random-Forest-Prediction-of-Barbell-Lift-Techniques/blob/master/Course_project.rmd  
- - Link to HTML file - https://github.com/Saumitra-171/Random-Forest-Prediction-of-Barbell-Lift-Techniques/blob/master/Course_project.html 
+ - Link to Rmd File - https://github.com/Saumitra-171/Random-Forest-Prediction-of-Barbell-Lift-Techniques/blob/master/Course_Project.rmd  
+ - Link to HTML file - https://github.com/Saumitra-171/Random-Forest-Prediction-of-Barbell-Lift-Techniques/blob/master/Course_Project.html 
